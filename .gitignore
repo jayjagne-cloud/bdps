@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+node_modules/
+.react-router/
+build/
+dist/
+
+.env
+.env.*
+!.env.example
